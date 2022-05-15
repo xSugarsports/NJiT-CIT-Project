@@ -1,0 +1,4 @@
+# NJiT-CIT-Project
+Final project for NJiT Cyber Infrastructure and Technology (CIT) class showcasing a capture the flag challenge involving using telnet to get into a POP3 service via powershell. Investigating the emails in POP3 for a splunk log in. Log into splunk, and search splunk logs for "downloaded" files. Found 5 downloaded files, and analyze them. Two of the downloads were base64 codes, which one was decoded and CTF challenged was completed with message "Congrats, you have finished CIT_FINAL successfully" 
+--------------------------------------------------------------------------------------------------------------------------
+Provided files : One .rtf for showing all steps taken from start to finish to complete CTF challenge. Screenshots showing pop3 entry, the finding of cowrie downloads and decoding of the base64.
